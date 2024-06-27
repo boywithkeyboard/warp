@@ -10,7 +10,7 @@
     "cdn-cgi-trace": "^1.1.0"
   },
   "devDependencies": {
-    "@types/node": "^20.14.4",
+    "@types/node": "^20.14.9",
     "esbuild": "^0.21.5",
     "typescript": "^5.4.5"
   }
